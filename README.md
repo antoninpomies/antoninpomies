@@ -5,8 +5,8 @@
 Je suis Antonin Pomies<br>
  - 📚 Je suis étudiant/apprenti en Cybersécurité a <a href="https://www.3il-ingenieurs.fr/">3il Ingénieurs<a> dans la ville de Limoges
  - 💻 Je travaille à <a href="https://www.micro-genie.fr">Micro-Génie<a>
- - 📑 Je souhaite devenir Expert en Cybersécurité / Ethical Hacker
+ - 📑 Je souhaite devenir Expert en Cybersécurité / Pentester
  - 🚩 J'ai un capital de 1200 pts sur <a href="https://www.root-me.org/HackMeSvP">Root-Me<a>
 
 # Mes Stats GitHub 📈
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoninpomies&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoninpomies&show_icons=true&theme=dark)
